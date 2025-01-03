@@ -1,0 +1,12 @@
+ 
+<ul>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',1,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/general/general.html" target="navcontent" >जनरल &nbsp;&nbsp; </a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',2,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/pain/pain.html" target="navcontent" >&nbsp;&nbsp;दर्द&nbsp;&nbsp;</a></li> 
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',3,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/adolescence/adolescence.html" target="navcontent" >&nbsp;&nbsp;किशोरावस्था&nbsp;&nbsp;</a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',4,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/women/women.html" target="navcontent" >&nbsp;&nbsp;महिलाओं&nbsp;&nbsp;</a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',5,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/antenatalcare/pregnancydiagnosis.html" target="navcontent" >&nbsp;&nbsp;गर्भावस्था&nbsp;&nbsp;</a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',8,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/pnc/puerperium.html" target="navcontent" >&nbsp;&nbsp;प्रसवकालीन देखभाल&nbsp;&nbsp;</a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',6,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/contraception/contraception.html" target="navcontent" >&nbsp;&nbsp;गर्भनिरोधक&nbsp;&nbsp;</a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',7,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/immunization/nis.html" target="navcontent" >&nbsp;&nbsp;टीकाकरण&nbsp;&nbsp;</a></li>
+	<li class="get_static blueclass_1 " onclick="SaveCategory('MEDICALADVICECATEGORY',9,0,0,0);" style="font-family:arial;font-size:14px;color:black;"><a href="pages/inbound/NonCommunicalDiseases/ncd.html " target="navcontent" >&nbsp;&nbsp;गैर - संचारी रोग&nbsp;&nbsp;</a></li>
+</ul> 
